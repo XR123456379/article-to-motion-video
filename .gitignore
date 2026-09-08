@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv*/
+node_modules/
+.env
+.env.*
+!.env.example
+work/
+outputs/
+*.mp4
+*.mp3
+.thumbnails/
