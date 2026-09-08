@@ -1,0 +1,6 @@
+interface:
+  display_name: "Article to Motion Video"
+  short_description: "Turn articles into validated HyperFrames motion drafts"
+  default_prompt: "Use $article-to-motion-video to turn this faithful article into a validated HyperFrames motion-video draft."
+policy:
+  allow_implicit_invocation: true
